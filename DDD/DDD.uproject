@@ -14,8 +14,13 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
+				"LinuxArm64",
 				"Android"
 			]
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
