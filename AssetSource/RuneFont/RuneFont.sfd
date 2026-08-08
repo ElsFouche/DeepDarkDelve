@@ -1,0 +1,121 @@
+SplineFontDB: 3.2
+FontName: RuneFont
+FullName: RuneFont
+FamilyName: RuneFont
+Weight: Regular
+Copyright: Copyright (c) 2026, Els Fouche
+UComments: "2026-8-7: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -102
+UnderlineWidth: 51
+Ascent: 1024
+Descent: 0
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 390 245248826 21610]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1786152942
+ModificationTime: 1786155124
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 92
+VLineGap: 92
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 19 8
+BeginPrivate: 0
+EndPrivate
+Grid
+959.795166016 1536 m 0
+ 959.795166016 -512 l 1024
+  Named: "RightMargin"
+63.9545454545 1536 m 0
+ 63.9545454545 -512 l 1024
+  Named: "LeftMargin"
+-1024 768 m 0
+ 2048 768 l 1024
+  Named: "HorizontalTopQuarter"
+-1024 256.0625 m 0
+ 2048 256.0625 l 1024
+  Named: "HorizontalBottomQuarter"
+-1024 682.054865057 m 0
+ 2048 682.054865057 l 1024
+  Named: "HorizontalTopThird"
+-1024 341 m 0
+ 2048 341 l 1024
+  Named: "HorizontalBottomThird"
+-1024 511.029166667 m 0
+ 2048 511.029166667 l 1024
+  Named: "HorizontalMidline"
+511.989013672 1536 m 0
+ 511.989013672 1051 l 0
+ 511.989013672 1021 l 0
+ 511.989013672 1008 l 4
+ 511.989013672 -512 l 1024
+  Named: "VerticalMidline"
+EndSplineSet
+BeginChars: 256 2
+
+StartChar: A
+Encoding: 65 65 0
+Width: 1024
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+959.794921875 768 m 1
+ 511.989257812 1024 l 1
+ 63.9541015625 768 l 1
+ 64 725 l 1
+ 511.989257812 976 l 1
+ 959.794921875 725 l 1
+ 959.794921875 768 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0001
+Encoding: 1 1 1
+Width: 1024
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+511.989257812 1024 m 5
+ 63.9541015625 768 l 1
+ 63.9541015625 256 l 1
+ 511.989257812 0 l 1
+ 959.794921875 256 l 1
+ 959.794921875 768 l 1
+ 511.989257812 1024 l 5
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
