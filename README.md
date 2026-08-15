@@ -20,7 +20,7 @@ Slay creatures, gather treasure, and gain enough power to overcome the guardians
 - Age group: late-20 to early-40 year olds
 - Platform & Tech Stack: 
   - PC, itch.io
-  - Unreal 5.5
+  - Unreal 5.6
   - Github (**you are here**)
 - Similar to:
   - Final Fantasy Tactics
